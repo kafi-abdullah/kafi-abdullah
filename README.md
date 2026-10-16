@@ -1,6 +1,6 @@
+![Fortend Web Developer](https://media.licdn.com/dms/image/v2/D5616AQF3DlXBMMaCXQ/profile-displaybackgroundimage-shrink_350_1400/B56aDh3A4PIUAU-/0/1790495690546?e=1793836800&v=beta&t=NvhOl3N0TTENoFSfYGidlU3Kavj11gTja_kj4ekZKFY)
 ### Hi there 👋, I'm Kafi Abdullah
 #### Fortend Web Developer
-![Fortend Web Developer](https://media.licdn.com/dms/image/v2/D5616AQF3DlXBMMaCXQ/profile-displaybackgroundimage-shrink_350_1400/B56aDh3A4PIUAU-/0/1790495690546?e=1793836800&v=beta&t=NvhOl3N0TTENoFSfYGidlU3Kavj11gTja_kj4ekZKFY)
 
 I'm a Front-End Web Developer and HTML Email Template Designer focused on building clean, modern, and high-converting web experiences.
 
