@@ -15,59 +15,59 @@
 
 ---
 
-### <img src="https://api.iconify.design/lucide/user-round.svg?color=%238b949e" height="20" align="top" alt=""> &nbsp;About
+### <img src="https://api.iconify.design/lucide/user-round.svg?color=%233b82f6" height="28" align="absmiddle" alt=""> &nbsp;About
 
 I'm a **Front-End Web Developer** and **HTML Email Template Designer** focused on building clean, modern, and high-converting web experiences.
 
 I specialize in **HTML**, **CSS**, and **responsive design**, turning visual ideas into polished websites, landing pages, and email templates with a strong focus on UI and usability. I'm currently expanding my **JavaScript** skills to build more dynamic interfaces alongside my studies.
 
-### <img src="https://api.iconify.design/lucide/layout-dashboard.svg?color=%238b949e" height="20" align="top" alt=""> &nbsp;What I Do
+### <img src="https://api.iconify.design/lucide/layout-dashboard.svg?color=%233b82f6" height="28" align="absmiddle" alt=""> &nbsp;What I Do
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <img src="https://api.iconify.design/lucide/monitor-smartphone.svg?color=%238b949e" height="22" alt=""><br/>
+      <img src="https://api.iconify.design/lucide/monitor-smartphone.svg?color=%233b82f6" height="26" alt=""><br/>
       <b>Responsive Web Design</b><br/>
       <sub>Layouts that adapt to every screen.</sub>
     </td>
     <td width="50%" valign="top">
-      <img src="https://api.iconify.design/lucide/braces.svg?color=%238b949e" height="22" alt=""><br/>
+      <img src="https://api.iconify.design/lucide/braces.svg?color=%233b82f6" height="26" alt=""><br/>
       <b>HTML5 &amp; CSS3 Development</b><br/>
       <sub>Semantic, clean, maintainable code.</sub>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <img src="https://api.iconify.design/lucide/mail.svg?color=%238b949e" height="22" alt=""><br/>
+      <img src="https://api.iconify.design/lucide/mail.svg?color=%233b82f6" height="26" alt=""><br/>
       <b>HTML Email Templates</b><br/>
       <sub>Cross-client, conversion-ready emails.</sub>
     </td>
     <td width="50%" valign="top">
-      <img src="https://api.iconify.design/lucide/layout-template.svg?color=%238b949e" height="22" alt=""><br/>
+      <img src="https://api.iconify.design/lucide/layout-template.svg?color=%233b82f6" height="26" alt=""><br/>
       <b>Landing Page Development</b><br/>
       <sub>Focused pages with strong calls to action.</sub>
     </td>
   </tr>
   <tr>
     <td colspan="2" valign="top">
-      <img src="https://api.iconify.design/lucide/pen-tool.svg?color=%238b949e" height="22" alt=""><br/>
+      <img src="https://api.iconify.design/lucide/pen-tool.svg?color=%233b82f6" height="26" alt=""><br/>
       <b>Website UI Implementation</b><br/>
       <sub>Polished, pixel-accurate design-to-code delivery.</sub>
     </td>
   </tr>
 </table>
 
-### <img src="https://api.iconify.design/lucide/code-xml.svg?color=%238b949e" height="20" align="top" alt=""> &nbsp;Tech Stack
+### <img src="https://api.iconify.design/lucide/code-xml.svg?color=%233b82f6" height="28" align="absmiddle" alt=""> &nbsp;Tech Stack
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,firebase&theme=dark&perline=3" alt="HTML, CSS, Firebase" />
+<img src="https://skillicons.dev/icons?i=html,css,firebase&theme=dark&perline=3" width="130" alt="HTML, CSS, Firebase" />
 
 <sub>Currently learning &nbsp;→&nbsp; <b>JavaScript</b></sub>
 
 </div>
 
-### <img src="https://api.iconify.design/lucide/handshake.svg?color=%238b949e" height="20" align="top" alt=""> &nbsp;Open To
+### <img src="https://api.iconify.design/lucide/handshake.svg?color=%233b82f6" height="28" align="absmiddle" alt=""> &nbsp;Open To
 
 <div align="center">
 
@@ -78,15 +78,13 @@ I specialize in **HTML**, **CSS**, and **responsive design**, turning visual ide
 
 </div>
 
-### <img src="https://api.iconify.design/lucide/send.svg?color=%238b949e" height="20" align="top" alt=""> &nbsp;Contact Me
+### <img src="https://api.iconify.design/lucide/send.svg?color=%233b82f6" height="28" align="absmiddle" alt=""> &nbsp;Contact Me
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/me-kafiabdullah"><img src="https://api.iconify.design/ri/linkedin-fill.svg?color=%238b949e" height="22" align="top" alt=""> LinkedIn</a> &nbsp;&nbsp;
-<a href="https://www.youtube.com/@me_kafiabdullah"><img src="https://api.iconify.design/ri/youtube-fill.svg?color=%238b949e" height="22" align="top" alt=""> YouTube</a> &nbsp;&nbsp;
-<a href="https://x.com/me_kafiabdullah"><img src="https://api.iconify.design/ri/twitter-x-fill.svg?color=%238b949e" height="22" align="top" alt=""> X</a> &nbsp;&nbsp;
-<a href="https://www.facebook.com/me.kafiabdullah"><img src="https://api.iconify.design/ri/facebook-circle-fill.svg?color=%238b949e" height="22" align="top" alt=""> Facebook</a> &nbsp;&nbsp;
-<a href="https://www.instagram.com/me.kafiabdullah"><img src="https://api.iconify.design/ri/instagram-fill.svg?color=%238b949e" height="22" align="top" alt=""> Instagram</a>
+<a href="https://www.linkedin.com/in/me-kafiabdullah"><img src="https://api.iconify.design/ri/linkedin-box-fill.svg?color=%233b82f6" width="30" height="30" alt="LinkedIn" /></a>&nbsp;&nbsp;&nbsp;<a href="https://www.youtube.com/@me_kafiabdullah"><img src="https://api.iconify.design/ri/youtube-fill.svg?color=%233b82f6" width="30" height="30" alt="YouTube" /></a>&nbsp;&nbsp;&nbsp;<a href="https://x.com/me_kafiabdullah"><img src="https://api.iconify.design/ri/twitter-x-fill.svg?color=%233b82f6" width="30" height="30" alt="X" /></a>&nbsp;&nbsp;&nbsp;<a href="https://www.facebook.com/me.kafiabdullah"><img src="https://api.iconify.design/ri/facebook-box-fill.svg?color=%233b82f6" width="30" height="30" alt="Facebook" /></a>&nbsp;&nbsp;&nbsp;<a href="https://www.instagram.com/me.kafiabdullah"><img src="https://api.iconify.design/ri/instagram-fill.svg?color=%233b82f6" width="30" height="30" alt="Instagram" /></a>
+
+<br/>
 
 <sub>Have a project in mind? <a href="mailto:contact.kafiabdullah@gmail.com"><b>Let's build something great together.</b></a></sub>
 
