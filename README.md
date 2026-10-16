@@ -1,48 +1,38 @@
+::: {align="center"}
+# Kafi Abdullah
 
-# Hi, I'm Kafi Abdullah 👋
+**Frontend Web Developer**
 
-### Frontend Web Developer
+Building clean, responsive websites and thoughtful email experiences.
 
-I build clean, responsive websites and HTML email templates with a focus on usability, accessibility, and consistent design.
+[Portfolio](https://kafiabdullah.onrender.com) ·
+[LinkedIn](https://www.linkedin.com/in/me-kafiabdullah) ·
+[GitHub](https://github.com/kafi-abdullah)
+:::
 
-## About Me
+------------------------------------------------------------------------
 
-- 💻 Interested in frontend development and web design
-- 🎨 Focused on responsive layouts and clean UI
-- 📧 Experienced in building HTML email templates
-- 🌱 Currently learning JavaScript and improving my Git skills
-- 🌐 Portfolio: [Visit My Website](https://kafiabdullah.web.app/)
-- 💼 LinkedIn: [Connect with me](https://linkedin.com/in/me-kafiabdullah)
+### About
 
-## Skills
+I'm a frontend web developer focused on turning designs into clean,
+responsive, and user-friendly web experiences.
 
-### Frontend Development
-- HTML5
-- CSS3
-- Responsive Web Design
-- Landing Page Development
-- HTML Email Template Design
+-   Creating responsive websites and landing pages
+-   Building HTML email templates
+-   Practicing clean, maintainable UI implementation
+-   Currently learning JavaScript and improving my Git workflow
 
-### Tools
-- Git
-- GitHub
-- VS Code
+### Skills
 
-### Currently Learning
-- JavaScript
-- Git Workflow
+`HTML5` `CSS3` `Responsive Design` `Landing Pages` `HTML Email`
 
+### Explore My Work
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+Visit my [portfolio](https://kafiabdullah.onrender.com) to see selected
+projects and work.
 
+------------------------------------------------------------------------
 
-
-## Featured Projects
-
-Check out my pinned repositories below to explore my work.
-
----
-
-*Build | Design | Deliver*
+::: {align="center"}
+**Build · Design · Deliver**
+:::
