@@ -16,10 +16,22 @@ I build clean, responsive websites and HTML email templates with a focus on usab
 
 ## Skills
 
+### Frontend Development
 - HTML5
 - CSS3
 - Responsive Web Design
-- HTML Email Templates
+- Landing Page Development
+- HTML Email Template Design
+
+### Tools
+- Git
+- GitHub
+- VS Code
+
+### Currently Learning
+- JavaScript
+- Git Workflow
+
 
 ## Featured Projects
 
