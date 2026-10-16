@@ -1,16 +1,30 @@
-## Hi there 👋
 
-<!--
-**kafiabdullah-me/kafiabdullah-me** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Kafi Abdullah 👋
 
-Here are some ideas to get you started:
+### Frontend Web Developer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I build clean, responsive websites and HTML email templates with a focus on usability, accessibility, and consistent design.
+
+## About Me
+
+- 💻 Interested in frontend development and web design
+- 🎨 Focused on responsive layouts and clean UI
+- 📧 Experienced in building HTML email templates
+- 🌱 Currently learning JavaScript and improving my Git skills
+- 🌐 Portfolio: [Visit My Website](https://kafiabdullah.web.app/)
+- 💼 LinkedIn: [Connect with me](https://linkedin.com/in/me-kafiabdullah)
+
+## Skills
+
+- HTML5
+- CSS3
+- Responsive Web Design
+- HTML Email Templates
+
+## Featured Projects
+
+Check out my pinned repositories below to explore my work.
+
+---
+
+*Build | Design | Deliver*
